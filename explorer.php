@@ -509,10 +509,10 @@ function inBytes($ini_v) {
 		vertical-align: baseline;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
-		-webkit-user-select: none;
-		-moz-user-select: none;
-		 -ms-user-select: none;
-		     user-select: none;
+		-webkit-user-select: text;
+		-moz-user-select: text;
+		 -ms-user-select: text;
+		     user-select: text;
 		-webkit-transition: 0.2s;
 		-o-transition: 0.2s;
 		transition: 0.2s;
@@ -600,10 +600,10 @@ function inBytes($ini_v) {
 		opacity: 0.4;
 		-webkit-filter: grayscale(1);
 		filter: grayscale(1);
-		-webkit-user-select: none;
-		-moz-user-select: none;
-		 -ms-user-select: none;
-		     user-select: none;
+		-webkit-user-select: text;
+		-moz-user-select: text;
+		 -ms-user-select: text;
+		     user-select: text;
 		pointer-events: none;
 	}
 	input[type=radio],
@@ -750,10 +750,10 @@ function inBytes($ini_v) {
 		line-height: 1;
 		padding: 0.5rem 1.5rem;
 		color: #444;
-		-webkit-user-select: none;
-		   -moz-user-select: none;
-		    -ms-user-select: none;
-		        user-select: none;
+		-webkit-user-select: text;
+		   -moz-user-select: text;
+		    -ms-user-select: text;
+		        user-select: text;
 		cursor: pointer;
 	}
 	.options a:hover {
@@ -2715,10 +2715,10 @@ function html_setup($phpInfo){?>
 			vertical-align: baseline;
 			-webkit-box-sizing: border-box;
 			box-sizing: border-box;
-			-webkit-user-select: none;
-			-moz-user-select: none;
-			 -ms-user-select: none;
-			     user-select: none;
+			-webkit-user-select: text;
+			-moz-user-select: text;
+			 -ms-user-select: text;
+			     user-select: text;
 			-webkit-transition: 0.2s;
 			-o-transition: 0.2s;
 			transition: 0.2s;
@@ -2915,10 +2915,10 @@ function html_login($label){?>
 			vertical-align: baseline;
 			-webkit-box-sizing: border-box;
 			box-sizing: border-box;
-			-webkit-user-select: none;
-			-moz-user-select: none;
-			 -ms-user-select: none;
-			     user-select: none;
+			-webkit-user-select: text;
+			-moz-user-select: text;
+			 -ms-user-select: text;
+			     user-select: text;
 			-webkit-transition: 0.2s;
 			-o-transition: 0.2s;
 			transition: 0.2s;
@@ -3130,10 +3130,10 @@ function html_editor($file){?>
 			vertical-align: baseline;
 			-webkit-box-sizing: border-box;
 			box-sizing: border-box;
-			-webkit-user-select: none;
-			-moz-user-select: none;
-			 -ms-user-select: none;
-			     user-select: none;
+			-webkit-user-select: text;
+			-moz-user-select: text;
+			 -ms-user-select: text;
+			     user-select: text;
 			-webkit-transition: 0.2s;
 			-o-transition: 0.2s;
 			transition: 0.2s;
